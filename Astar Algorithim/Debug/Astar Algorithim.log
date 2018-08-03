@@ -1,0 +1,16 @@
+﻿  Grid.cpp
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(247): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(256): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(267): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(277): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(305): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(316): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex lee\desktop\astar pathfinder\a-pathfinder-sge-\astar algorithim\grid.cpp(339): warning C4018: '<': signed/unsigned mismatch
+  Astar Algorithim.vcxproj -> C:\Users\Alex Lee\Desktop\AStar pathfinder\A-PathFinder-SGE-\Debug\Astar Algorithim.exe

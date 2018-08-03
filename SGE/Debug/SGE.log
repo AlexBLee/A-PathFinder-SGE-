@@ -1,0 +1,26 @@
+﻿  Debug.cpp
+  SGE_UI.cpp
+  SGE_Math.cpp
+  SGE_Graphics.cpp
+  SGE_Audio.cpp
+  SGE.cpp
+  CResourceManager.cpp
+  CResource.cpp
+  CSplashScreen.cpp
+  CIniFile.cpp
+  CDXInput.cpp
+  CWireFrame.cpp
+  CTexture.cpp
+  CSpriteRenderer.cpp
+  CSprite.cpp
+  CFont.cpp
+  CDXGraphics.cpp
+  CTimer.cpp
+  CLog.cpp
+  CApplication.cpp
+  Generating Code...
+  Compiling...
+  CSound.cpp
+  CFMOD.cpp
+  Generating Code...
+  SGE.vcxproj -> C:\Users\Alex Lee\Desktop\AStar pathfinder\A-PathFinder-SGE-\Debug\SGE.lib
